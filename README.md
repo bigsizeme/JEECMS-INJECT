@@ -1,4 +1,4 @@
-# JEECMS-INJECT
+# JEECMS-FreeMarker-RCE
 
 JEECMS Freemarker模板注入EXP；
 利用主要两步:
